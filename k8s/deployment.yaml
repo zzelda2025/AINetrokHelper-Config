@@ -4,7 +4,7 @@ metadata:
   name: ai-network-config-helper
   namespace: ai-network-config-helper
 spec:
-  replicas: 1
+  replicas: 2
   selector:
     matchLabels:
       app: ai-network-config-helper
